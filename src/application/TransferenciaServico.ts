@@ -20,6 +20,10 @@ export class TransferenciaServico {
             throw new NegocioErro("conta de origem não encontrada");
         }
 
+        if(contaDestino === undefined){
+            throw new NegocioErro("conta de destino não encontrada");
+        }
+
         const transferencia: TransferenciaValor = new TransferenciaValor();
         const recibo: Recibo = transferencia.transferir(contaOrigem!, contaDestino!, dto.valor);
 
