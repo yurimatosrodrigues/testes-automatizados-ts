@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox8521047\tests\application\TransferenciaServico.test.ts">
+    <testCase name="Transferência Serviço transferir valor com sucesso" duration="14"/>
+    <testCase name="Transferência Serviço conta de origem não encontrada" duration="2"/>
+    <testCase name="Transferência Serviço conta de destino não encontrada" duration="0"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox8521047\tests\model\Conta.test.ts">
+    <testCase name="Conta sacar com sucesso" duration="40"/>
+    <testCase name="Conta sacar com valor zerado" duration="23"/>
+    <testCase name="Conta sacar com valor negativo" duration="2"/>
+    <testCase name="Conta sacar valor acima do saldo" duration="3"/>
+    <testCase name="Conta depositar com sucesso" duration="2"/>
+    <testCase name="Conta depositar com valor zerado" duration="1"/>
+    <testCase name="Conta depositar com valor negativo" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox8521047\tests\model\Recibo.test.ts">
+    <testCase name="Recibo criar com sucesso" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox8521047\tests\model\service\TransferenciaValor.test.ts">
+    <testCase name="Transferência valor transferência de valor entre contas com sucesso" duration="16"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\tests\model\service\TransferenciaValor.test.ts">
+    <testCase name="Transferência valor transferência de valor entre contas com sucesso" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox8521047\tests\model\NumeroConta.test.ts">
+    <testCase name="Número Conta número conta com seis dígitos" duration="51"/>
+    <testCase name="Número Conta número conta com cinco dígitos" duration="21"/>
+    <testCase name="Número Conta número conta com sete dígitos" duration="2"/>
+    <testCase name="Número Conta número conta com valor que não seja dígitos" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\tests\application\TransferenciaServicoMock.test.ts">
+    <testCase name="Transferencia Servico Mock transferir com sucesso" duration="8"/>
+    <testCase name="Transferencia Servico Mock conta de origem não encontrada" duration="2"/>
+    <testCase name="Transferencia Servico Mock conta de destino não encontrada" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\tests\application\TransferenciaServico.test.ts">
+    <testCase name="Transferência Serviço transferir valor com sucesso" duration="3"/>
+    <testCase name="Transferência Serviço conta de origem não encontrada" duration="2"/>
+    <testCase name="Transferência Serviço conta de destino não encontrada" duration="1"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox8521047\tests\application\TransferenciaServicoMock.test.ts">
+    <testCase name="Transferencia Servico Mock transferir com sucesso" duration="56"/>
+    <testCase name="Transferencia Servico Mock conta de origem não encontrada" duration="3"/>
+    <testCase name="Transferencia Servico Mock conta de destino não encontrada" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\tests\model\NumeroConta.test.ts">
+    <testCase name="Número Conta número conta com seis dígitos" duration="1"/>
+    <testCase name="Número Conta número conta com cinco dígitos" duration="12"/>
+    <testCase name="Número Conta número conta com sete dígitos" duration="1"/>
+    <testCase name="Número Conta número conta com valor que não seja dígitos" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\tests\model\Conta.test.ts">
+    <testCase name="Conta sacar com sucesso" duration="2"/>
+    <testCase name="Conta sacar com valor zerado" duration="39"/>
+    <testCase name="Conta sacar com valor negativo" duration="24"/>
+    <testCase name="Conta sacar valor acima do saldo" duration="1"/>
+    <testCase name="Conta sacar todo o saldo" duration="0"/>
+    <testCase name="Conta depositar com sucesso" duration="1"/>
+    <testCase name="Conta depositar com valor zerado" duration="1"/>
+    <testCase name="Conta depositar com valor negativo" duration="1"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox6020839\tests\model\NumeroConta.test.ts">
+    <testCase name="Número Conta número conta com seis dígitos" duration="11"/>
+    <testCase name="Número Conta número conta com cinco dígitos" duration="64"/>
+    <testCase name="Número Conta número conta com sete dígitos" duration="1"/>
+    <testCase name="Número Conta número conta com valor que não seja dígitos" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\tests\model\Recibo.test.ts">
+    <testCase name="Recibo criar com sucesso" duration="1"/>
+    <testCase name="Recibo validar código dos recibos" duration="1"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox6020839\tests\model\service\TransferenciaValor.test.ts">
+    <testCase name="Transferência valor transferência de valor entre contas com sucesso" duration="14"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox6020839\tests\application\TransferenciaServicoMock.test.ts">
+    <testCase name="Transferencia Servico Mock transferir com sucesso" duration="27"/>
+    <testCase name="Transferencia Servico Mock conta de origem não encontrada" duration="3"/>
+    <testCase name="Transferencia Servico Mock conta de destino não encontrada" duration="2"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox6020839\tests\model\Recibo.test.ts">
+    <testCase name="Recibo criar com sucesso" duration="16"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox6020839\tests\application\TransferenciaServico.test.ts">
+    <testCase name="Transferência Serviço transferir valor com sucesso" duration="17"/>
+    <testCase name="Transferência Serviço conta de origem não encontrada" duration="2"/>
+    <testCase name="Transferência Serviço conta de destino não encontrada" duration="1"/>
+  </file>
+  <file path="C:\repos\testes-automatizados\.stryker-tmp\sandbox6020839\tests\model\Conta.test.ts">
+    <testCase name="Conta sacar com sucesso" duration="8"/>
+    <testCase name="Conta sacar com valor zerado" duration="16"/>
+    <testCase name="Conta sacar com valor negativo" duration="1"/>
+    <testCase name="Conta sacar valor acima do saldo" duration="2"/>
+    <testCase name="Conta depositar com sucesso" duration="1"/>
+    <testCase name="Conta depositar com valor zerado" duration="1"/>
+    <testCase name="Conta depositar com valor negativo" duration="0"/>
+  </file>
+</testExecutions>
